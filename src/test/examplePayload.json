@@ -1,0 +1,21 @@
+{
+  "name": "Luxmed",
+  "departments": [
+    {
+      "name": "IT Department",
+      "teams": [
+        {
+          "name": "Development Team",
+          "project": {
+            "name": "Medical Project",
+            "manager": {
+              "name": "Jan Kowalski",
+              "email": "jan.kowalski@luxmed.com",
+              "phoneNumber": "1234567890"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

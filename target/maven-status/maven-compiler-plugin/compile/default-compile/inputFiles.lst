@@ -1,0 +1,16 @@
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\CompanyApplication.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\controller\CompanyController.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\controller\TeamController.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\model\Company.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\model\Department.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\model\Manager.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\model\Project.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\model\Team.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\repository\CompanyRepository.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\repository\DepartmentRepository.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\repository\ManagerRepository.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\repository\ProjectRepository.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\repository\TeamRepository.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\service\CompanyService.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\service\DepartmentService.java
+C:\Users\ThinkPad\Desktop\sampleCRUD\src\main\java\com\luxmed\company\service\TeamService.java

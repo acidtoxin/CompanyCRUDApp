@@ -1,0 +1,4 @@
+com\luxmed\company\service\CompanyServiceTest.class
+com\luxmed\company\controller\TeamControllerTest.class
+com\luxmed\company\controller\CompanyControllerTest.class
+com\luxmed\company\CompanyApplicationTests.class

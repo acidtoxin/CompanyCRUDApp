@@ -1,0 +1,16 @@
+com\luxmed\company\model\Company.class
+com\luxmed\company\service\DepartmentService.class
+com\luxmed\company\service\TeamService.class
+com\luxmed\company\repository\CompanyRepository.class
+com\luxmed\company\repository\ManagerRepository.class
+com\luxmed\company\repository\TeamRepository.class
+com\luxmed\company\model\Project.class
+com\luxmed\company\controller\CompanyController.class
+com\luxmed\company\repository\DepartmentRepository.class
+com\luxmed\company\repository\ProjectRepository.class
+com\luxmed\company\service\CompanyService.class
+com\luxmed\company\CompanyApplication.class
+com\luxmed\company\model\Department.class
+com\luxmed\company\model\Manager.class
+com\luxmed\company\controller\TeamController.class
+com\luxmed\company\model\Team.class
